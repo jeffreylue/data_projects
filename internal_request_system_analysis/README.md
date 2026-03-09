@@ -132,7 +132,7 @@ The increase in SLA breaches despite stable volume suggests **structural ineffic
 <br>•	Audit **High-priority case classification standards**
 <br>
 <br>**Structural**
-<br>•	Define and optimize **escalation criteria** across stakeholder groups and request types to ensure consistent and transparent SLA handling.
+<br>•	Define and optimize **escalation criteria** across stakeholder groups and request types to ensure consistent and transparent SLA handling
 <br>•	Implement ongoing **SLA monitoring dashboards**
 <br>
 <br>**Modernization Opportunity**
