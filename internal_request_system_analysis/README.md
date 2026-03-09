@@ -114,29 +114,29 @@ This step identifies opportunities for operational efficiency improvements beyon
 ## Key Findings
 •	Overall request volume has remained stable month-over-month
 <br>•	SLA breach rates increased over time, with a notable spike in April
-<br>•	Executive requests maintained a 0% breach rate and lower average resolution times
-<br>•	High-priority cases exhibited the highest breach rate and longest resolution times
+<br>•	Executive requests maintained a **0% breach rate** and lower average resolution times
+<br>•	High-priority cases exhibited the **highest breach rate and longest resolution times**
 <br>•	The Operations department demonstrated increasing breach rates and resolution times despite stable volume
 <br>•	Access Requests and Password Resets represent high-volume, repeatable operational tasks
 
 ## Risk & Interpretation
-The increase in SLA breaches despite stable volume suggests structural inefficiencies rather than capacity overload. 
+The increase in SLA breaches despite stable volume suggests **structural inefficiencies rather than capacity overload.** 
 <br>
-<br>Differences in stakeholder performance may indicate prioritization asymmetry or escalation bias. 
+<br>Differences in stakeholder performance may indicate **prioritization asymmetry or escalation bias**. 
 <br>
-<br>Operational strain appears concentrated with specific departments and high-priority workflows.
+<br>Operational strain appears concentrated with **specific departments and high-priority workflows**.
 
 ## Recommendations
 **Immediate**
-<br>•	Conduct workflow review within Operations Department
-<br>•	Audit High-priority case classification standards
+<br>•	Conduct workflow review within **Operations Department**
+<br>•	Audit **High-priority case classification standards**
 <br>
 <br>**Structural**
-<br>•	Standardize escalation criteria across stakeholders and request type 
-<br>•	Implement ongoing SLA monitoring dashboards
+<br>•	Define and optimize **escalation criteria** across stakeholder groups and request types to ensure consistent and transparent SLA handling.
+<br>•	Implement ongoing **SLA monitoring dashboards**
 <br>
 <br>**Modernization Opportunity**
-<br>•	Explore AI-assisted ticket classification and validation
+<br>•	Explore **AI-assisted ticket classification and validation**
 <br>•	Assess automation potential for recurring operational requests
 <br>•	Consider system/workflow adjustments where operational strain is identified
 
