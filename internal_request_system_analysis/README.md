@@ -137,8 +137,8 @@ The increase in SLA breaches despite stable volume suggests **structural ineffic
 <br>
 <br>**Modernization Opportunity**
 <br>•	Explore **AI-assisted ticket classification and validation**
-<br>•	Assess automation potential for recurring operational requests
-<br>•	Consider system/workflow adjustments where operational strain is identified
+<br>•	Assess automation potential for **recurring operational requests**
+<br>•	Consider **system/workflow adjustments** where operational strain is identified
 
 ## Repository Structure
 ```
