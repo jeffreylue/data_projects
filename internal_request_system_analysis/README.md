@@ -25,7 +25,7 @@ The analysis identified workflow review, priority classification audits, and aut
 
 ## Project Overview
 This case study simulates an internal request management system where leadership wants to assess the sustainability and fairness of SLA performance across the organization. 
-<br>The [dataset](https://github.com/jeffreylue/internal-request-system-analysis/blob/main/data/sample_data.sql) was synthetically generated to reflect common service desk operational patterns.
+<br>The [dataset](https://github.com/jeffreylue/data_projects/blob/main/internal_request_system_analysis/data/sample_data.sql) was synthetically generated to reflect common service desk operational patterns.
 
 The objective of this analysis was to determine whether increasing SLA breaches were driven by higher demand, stakeholder behavior, departmental strain, or structural workflow inefficiencies.
 
