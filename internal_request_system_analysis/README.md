@@ -71,7 +71,7 @@ This step establishes whether performance degradation is driven by **increased d
 This macro view provides context for identifying **system-wide performance shifts** and determining segmentation for the deeper analysis. The investigation was subsequently divided into two parts: Stakeholder Performance and Department Performance.<br>
 <br>SQL Files:<br>
 
-• [macro_volume_trends.sql](https://github.com/jeffreylue/data_projects/blob/main/internal_request_system_analysis/analysis/macro_volume_trends.sql)
+→ [macro_volume_trends.sql](https://github.com/jeffreylue/data_projects/blob/main/internal_request_system_analysis/analysis/macro_volume_trends.sql)
 
 ### 2. Stakeholder Performance Analysis
 This stage evaluated whether SLA performance differed across stakeholder groups.<br>
@@ -85,7 +85,7 @@ Because internal service systems often prioritize executive requests, this analy
 
 This analysis helps determine whether **workflow prioritization dynamics** contribute to observed breach patterns.<br>
 <br>SQL Files:<br>
-• [stakeholder_analysis.sql](https://github.com/jeffreylue/data_projects/blob/main/internal_request_system_analysis/analysis/stakeholder_analysis.sql)
+→ [stakeholder_analysis.sql](https://github.com/jeffreylue/data_projects/blob/main/internal_request_system_analysis/analysis/stakeholder_analysis.sql)
 
 ### 3. Departmental Performance Analysis
 Following the stakeholder analysis, the investigation conducted a deeper review of **department-level operational performance**.<br>
@@ -97,7 +97,7 @@ This stage examines whether SLA breaches are concentrated within specific operat
 
 This stage helps identify **operational bottlenecks and workflow inefficiencies** that may be contributing to the increase in SLA breaches.<br>
 <br>SQL Files:<br>
-• [department_analysis.sql](https://github.com/jeffreylue/data_projects/blob/main/internal_request_system_analysis/analysis/department_analysis.sql)
+→ [department_analysis.sql](https://github.com/jeffreylue/data_projects/blob/main/internal_request_system_analysis/analysis/department_analysis.sql)
 
 ### 4. Service Type Performance Review
 Finally, the investigation evaluated **service request categories** to identify operational patterns and potential automation opportunities. <br>
@@ -109,7 +109,7 @@ Finally, the investigation evaluated **service request categories** to identify 
 
 This step identifies opportunities for operational efficiency improvements beyond organizational structure, particularly for recurring operational workflows.<br>
 <br>SQL Files:<br>
-• [department_analysis.sql](https://github.com/jeffreylue/data_projects/blob/main/internal_request_system_analysis/analysis/department_analysis.sql)
+→ [department_analysis.sql](https://github.com/jeffreylue/data_projects/blob/main/internal_request_system_analysis/analysis/department_analysis.sql)
 
 ## Key Findings
 •	Overall request volume has remained stable month-over-month
