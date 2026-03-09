@@ -42,6 +42,10 @@ This project was designed to simulate a real-world internal analytics investigat
 
 Each stage of the investigation builds on insights from the previous stage to isolate potential drivers of SLA degradation and translate analytical findings into operational recommendations.
 
+Investigation Flow
+
+Macro Trends → Stakeholder Analysis → Department Analysis → Service Type Review
+
 ## Business Problem
 Leadership observed an increase in SLA breaches and wants to understand the underlying causes.<br>
 <br>**Key questions include:**
