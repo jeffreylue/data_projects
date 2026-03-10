@@ -68,7 +68,7 @@ This step establishes whether performance degradation is driven by **increased d
 * Total submissions and SLA metrics by department<br>
 * SLA performance by case priority<br>
 <br>
-This macro view provides context for identifying **system-wide performance shifts** and determining segmentation for the deeper analysis. The investigation was subsequently divided into two parts: Stakeholder Performance and Department Performance.<br>
+This macro view provides context for identifying system-wide performance shifts and determining segmentation for the deeper analysis. The investigation was subsequently divided into two parts: Stakeholder Performance and Department Performance.<br>
 <br>SQL Files:<br>
 
 → [macro_volume_trends.sql](https://github.com/jeffreylue/data_projects/blob/main/internal_request_system_analysis/analysis/macro_volume_trends.sql)
